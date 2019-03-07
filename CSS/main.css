@@ -4,11 +4,11 @@ html {
 }
 
 .text {
-    width: 500px;
+    width: 600px;
 }
 
 #red {
-    color: rgb(255, 0, 0);
+    color: red;
 }
 
 #blue {
