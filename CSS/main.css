@@ -3,6 +3,10 @@ html {
     font-size: 20px;
 }
 
+#text {
+    width: 500px;
+}
+
 #red {
     color: rgb(255, 0, 0);
 }
